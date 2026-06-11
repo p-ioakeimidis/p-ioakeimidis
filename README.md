@@ -5,7 +5,7 @@ robotics systems and engineering projects.
 Currently starting an MSc in Systems and Control at TU Delft.
 
 I work at the intersection of robotics, control,and software develepoment
-with hands-on experience in ROS2, C++, Python, and simulation-based development.
+with hands-on experience in ROS1, C++, Python, and simulation-based development.
 My interests include autonomous systems, robot control, and
 engineering-driven robotics solutions.
 
