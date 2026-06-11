@@ -1,32 +1,45 @@
 # Hi, I'm Panagiotis 👋
 
-Electrical and ElectronicsEngineer with experience in robotics systems, control, and autonomous systems. Currently studying at TU Delt in Msc Systems and Control .
+Electrical and Electronics Engineer with experience across
+robotics systems and engineering projects.
+Currently starting an MSc in Systems and Control at TU Delft.
 
-I work at the intersection of robotics, control systems, and software engineering, building autonomous systems using ROS1/ROS2, Python, and C++.
+I work at the intersection of robotics, control,and software develepoment
+with hands-on experience in ROS2, C++, Python, and simulation-based development.
+My interests include autonomous systems, robot control, and
+engineering-driven robotics solutions.
 
 ---
 
 ## 🔗 Links
-💼 LinkedIn: https://www.linkedin.com/in/panagiotisioakeimidis/
-💻 GitHub: https://github.com/p-ioakeimidis
-📍 Location: Athens, Greece  
+- 💼 LinkedIn: https://www.linkedin.com/in/panagiotisioakeimidis/
+- 💻 GitHub:   https://github.com/p-ioakeimidis
+
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Programming**
-Python · C++ · MATLAB
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?logo=mathworks&logoColor=white)
 
-**Robotics & Control**
-ROS1 · RViz · Gazebo · MPC · SLAM  
+### Simulation & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=black)
 
-**Simulation & Tools**
-Linux · Git · Docker · Gazebo   
-
-**Engineering Tools**
-SolidWorks · Simulink 
-
+### Robotics & Control
+![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white)
+![RViz](https://img.shields.io/badge/RViz-22314E?logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-6C757D?logo=gazebo&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![MPC](https://img.shields.io/badge/MPC-Model%20Predictive%20Control-darkgreen)
+![MPPI](https://img.shields.io/badge/MPPI-Path%20Integral%20Control-purple)
 ---
 
 ## 🚀 Projects
