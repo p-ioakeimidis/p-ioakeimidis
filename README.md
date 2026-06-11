@@ -39,7 +39,6 @@ engineering-driven robotics solutions.
 ![Gazebo](https://img.shields.io/badge/Gazebo-6C757D?logo=gazebo&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![MPC](https://img.shields.io/badge/MPC-Model%20Predictive%20Control-darkgreen)
-![MPPI](https://img.shields.io/badge/MPPI-Path%20Integral%20Control-purple)
 ---
 
 ## 🚀 Projects
