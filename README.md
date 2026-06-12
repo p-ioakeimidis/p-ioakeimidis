@@ -2,7 +2,7 @@
 
 Electrical and Electronics Engineer with experience across
 robotics systems and engineering projects.
-Currently starting an MSc in Systems and Control at TU Delft.
+Currently starting a MSc in Systems and Control at TU Delft.
 
 I work at the intersection of robotics, control,and software develepoment
 with hands-on experience in ROS1, C++, Python, and simulation-based development.
