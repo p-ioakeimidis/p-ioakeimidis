@@ -29,6 +29,7 @@ engineering-driven robotics solutions.
 ### Simulation & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![OpenCv](https://img.shields.io/badge/OpenCv-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=black)
 
