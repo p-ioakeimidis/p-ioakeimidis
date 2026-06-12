@@ -49,6 +49,9 @@ This project demonstrates state estimation for a differential two-wheel (differe
 ### Autonomous Navigation- Part 1
 This project implements a complete autonomous navigation system for a differential drive mobile robot using ROS1 Noetic. It extends a previously developed EKF-based localization system and adds global and local path planning capabilities using the ROS Navigation Stack.
 
+### Lane Following OpenCV
+A Python and OpenCV-based lane following system that detects road lane markings from an MP4 video, estimates the steering angle in real time, and outputs a normalized steering command using classical computer vision techniques.
+
 ---
 
 ## 🎯 Interests
