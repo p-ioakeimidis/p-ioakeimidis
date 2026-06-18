@@ -47,17 +47,17 @@ engineering-driven robotics solutions.
 ### [EKF - Localization](https://github.com/p-ioakeimidis/robot-ekf-localization)
 This project demonstrates state estimation for a differential two-wheel (differential drive) mobile robot using the Extended Kalman Filter (EKF) in ROS1 Noetic. The robot is simulated in Gazebo and visualized in RViz, with separate configurations for local and global localization.
 
-### Autonomous Navigation- Part 1
+### [Autonomous Navigation- Part 1](https://github.com/p-ioakeimidis/robot-autonomous-navigation)
 This project implements a complete autonomous navigation system for a differential drive mobile robot using ROS1 Noetic. It extends a previously developed EKF-based localization system and adds global and local path planning capabilities using the ROS Navigation Stack.
 
-### Lane Following OpenCV
+### [Lane Following OpenCV](https://github.com/p-ioakeimidis/lane-following-simulation)
 A Python and OpenCV-based lane following system that detects road lane markings from an MP4 video, estimates the steering angle in real time, and outputs a normalized steering command using classical computer vision techniques.
 
-### TinyML-Based Self-Balancing Robot
+### [TinyML-Based Self-Balancing Robot](https://github.com/p-ioakeimidis/tinyml-self-balancing-robot)
 
 This project implements a Tiny Machine Learning (TinyML) model for controlling a two-wheeled self-balancing robot using the Arduino Nano 33 BLE Sense. A MATLAB/Simulink model with an LQR-based Full-State Feedback controller was used to generate training data, which was then used to train a lightweight model in Edge Impulse. The final model was deployed using TensorFlow Lite Micro for real-time embedded control.
 
-### Sign and Traffic Object Detection with YOLO and OpenVINO
+### [Sign and Traffic Object Detection with YOLO and OpenVINO](https://github.com/p-ioakeimidis/sign-detection-simulation)
 
 A real-time object detection system using YOLO and OpenVINO to detect traffic signs, lights, pedestrians, and vehicles from video input with optimized inference performance.
 
