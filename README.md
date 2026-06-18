@@ -53,6 +53,10 @@ This project implements a complete autonomous navigation system for a differenti
 ### Lane Following OpenCV
 A Python and OpenCV-based lane following system that detects road lane markings from an MP4 video, estimates the steering angle in real time, and outputs a normalized steering command using classical computer vision techniques.
 
+### TinyML-Based Self-Balancing Robot
+
+This project implements a Tiny Machine Learning (TinyML) model for controlling a two-wheeled self-balancing robot using the Arduino Nano 33 BLE Sense. A MATLAB/Simulink model with an LQR-based Full-State Feedback controller was used to generate training data, which was then used to train a lightweight model in Edge Impulse. The final model was deployed using TensorFlow Lite Micro for real-time embedded control.
+
 ---
 
 ## 🎯 Interests
