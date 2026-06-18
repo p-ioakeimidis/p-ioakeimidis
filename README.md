@@ -25,6 +25,8 @@ engineering-driven robotics solutions.
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-FF8000?logo=mathworks&logoColor=white)
+
 
 ### Simulation & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
@@ -40,7 +42,7 @@ engineering-driven robotics solutions.
 ![Gazebo](https://img.shields.io/badge/Gazebo-6C757D?logo=gazebo&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![MPC](https://img.shields.io/badge/MPC-Model%20Predictive%20Control-darkgreen)
-![LQR](https://img.shields.io/badge/LQR-Linear%20Quadratic%20Regulator-darkgreen)
+![LQR](https://img.shields.io/badge/LQR-Linear%20Quadratic%20Regulator-green)
 
 ---
 
