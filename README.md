@@ -44,7 +44,7 @@ engineering-driven robotics solutions.
 
 ## 🚀 Projects
 
-### EKF - Localization
+### [EKF - Localization](https://github.com/p-ioakeimidis/robot-ekf-localization)
 This project demonstrates state estimation for a differential two-wheel (differential drive) mobile robot using the Extended Kalman Filter (EKF) in ROS1 Noetic. The robot is simulated in Gazebo and visualized in RViz, with separate configurations for local and global localization.
 
 ### Autonomous Navigation- Part 1
