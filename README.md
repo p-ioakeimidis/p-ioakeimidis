@@ -57,6 +57,10 @@ A Python and OpenCV-based lane following system that detects road lane markings 
 
 This project implements a Tiny Machine Learning (TinyML) model for controlling a two-wheeled self-balancing robot using the Arduino Nano 33 BLE Sense. A MATLAB/Simulink model with an LQR-based Full-State Feedback controller was used to generate training data, which was then used to train a lightweight model in Edge Impulse. The final model was deployed using TensorFlow Lite Micro for real-time embedded control.
 
+### Sign and Traffic Object Detection with YOLO and OpenVINO
+
+A real-time object detection system using YOLO and OpenVINO to detect traffic signs, lights, pedestrians, and vehicles from video input with optimized inference performance.
+
 ---
 
 ## 🎯 Interests
