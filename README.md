@@ -14,6 +14,7 @@ engineering-driven robotics solutions.
 ## 🔗 Links
 - 💼 LinkedIn: https://www.linkedin.com/in/panagiotisioakeimidis/
 - 💻 GitHub:   https://github.com/p-ioakeimidis
+- 🌐 Linktree: https://linktr.ee/pioakeimidis
 
 
 ---
